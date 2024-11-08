@@ -20,10 +20,7 @@
     - 照片
 
     ```html
-
-    <div style="text-align: center;">
-        <img src="./images/xxx.jpg" alt="Alt text" width="20%" height="20%"/>
-    </div>
+    <img src="./images/xx.jpg" alt="Alt text" width="20%" height="20%" style="display:block; margin-left:auto; margin-right:auto;" />
     ```
 
 4. 提交PR即可
@@ -42,9 +39,7 @@
 
 - 照片
 
-<div style="text-align: center;">
-    <img src="./images/泰山_将军.jpg" alt="Alt text" width="20%" height="20%"/>
-</div>
+<img src="./images/泰山_将军.jpg" alt="Alt text" width="20%" height="20%" style="display:block; margin-left:auto; margin-right:auto;" />
 
 2. 泰山-颜悦
 
@@ -56,6 +51,4 @@
 
 - 照片
 
-<div style="text-align: center;">
-    <img src="./images/泰山_颜悦.jpg" alt="Alt text" width="20%" height="20%"/>
-</div>
+<img src="./images/泰山_颜悦.jpg" alt="Alt text" width="20%" height="20%" style="display:block; margin-left:auto; margin-right:auto;" />
