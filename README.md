@@ -179,7 +179,7 @@
     <td>上海</td>
     <td>粗</td>
     <td>无爆珠</td>
-    <td>97mm</td>
+    <td>unknown</td>
     <td>11mg</td>
     <td>1.0mg</td>
     <td>12mg</td>
@@ -191,4 +191,80 @@
 
 <div align="center">
     <img src="./images/金上海.jpg" alt="Alt text" width="20%" height="20%"/>
+</div>
+
+## 印尼
+
+1. 555-双冰
+
+- 信息
+
+<table border="1">
+  <tr>
+    <th>价格</th>
+    <th>购买地点</th>
+    <th>类别</th>
+    <th>爆珠口味</th>
+    <th>长度</th>
+    <th>焦油量</th>
+    <th>烟气烟碱量</th>
+    <th>烟气一氧化碳量</th>
+    <th>推荐等级</th>
+
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>武汉</td>
+    <td>粗</td>
+    <td>双冰，薄荷口味</td>
+    <td>unknown</td>
+    <td>9mg</td>
+    <td>0.6mg</td>
+    <td>8mg</td>
+    <td>★★★★★</td>
+  </tr>
+</table>
+
+- 照片
+
+<div align="center">
+    <img src="./images/555-双冰.jpg" alt="Alt text" width="20%" height="20%"/>
+</div>
+
+## 安徽
+
+1. 徽商
+
+- 信息
+
+<table border="1">
+  <tr>
+    <th>价格</th>
+    <th>购买地点</th>
+    <th>类别</th>
+    <th>爆珠口味</th>
+    <th>长度</th>
+    <th>焦油量</th>
+    <th>烟气烟碱量</th>
+    <th>烟气一氧化碳量</th>
+    <th>推荐等级</th>
+
+  </tr>
+  <tr>
+    <td>50</td>
+    <td>安徽</td>
+    <td>细</td>
+    <td>石斛爆珠</td>
+    <td>unknown</td>
+    <td>8mg</td>
+    <td>0.7mg</td>
+    <td>6mg</td>
+    <td>★★★★☆</td>
+  </tr>
+</table>
+
+- 照片
+
+<div align="center">
+    <img src="./images/徽商.jpg" alt="Alt text" width="20%" height="20%"/>
 </div>
