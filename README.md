@@ -268,3 +268,41 @@
 <div align="center">
     <img src="./images/徽商.jpg" alt="Alt text" width="20%" height="20%"/>
 </div>
+
+## 甘肃
+
+1. 兰州
+
+- 信息
+
+<table border="1">
+  <tr>
+    <th>价格</th>
+    <th>购买地点</th>
+    <th>类别</th>
+    <th>爆珠口味</th>
+    <th>长度</th>
+    <th>焦油量</th>
+    <th>烟气烟碱量</th>
+    <th>烟气一氧化碳量</th>
+    <th>推荐等级</th>
+
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>兰州</td>
+    <td>中</td>
+    <td>无</td>
+    <td>unknown</td>
+    <td>8mg</td>
+    <td>0.8mg</td>
+    <td>8mg</td>
+    <td>★★★★☆</td>
+  </tr>
+</table>
+
+- 照片
+
+<div align="center">
+    <img src="./images/兰州_黑中支.jpg" alt="Alt text" width="20%" height="20%"/>
+</div>
