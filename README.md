@@ -306,3 +306,42 @@
 <div align="center">
     <img src="./images/兰州_黑中支.jpg" alt="Alt text" width="20%" height="20%"/>
 </div>
+
+
+## 贵州
+
+1. 跨越
+
+- 信息
+
+<table border="1">
+  <tr>
+    <th>价格</th>
+    <th>购买地点</th>
+    <th>类别</th>
+    <th>爆珠口味</th>
+    <th>长度</th>
+    <th>焦油量</th>
+    <th>烟气烟碱量</th>
+    <th>烟气一氧化碳量</th>
+    <th>推荐等级</th>
+
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>武汉</td>
+    <td>中</td>
+    <td>陈皮</td>
+    <td>unknown</td>
+    <td>5mg</td>
+    <td>0.7mg</td>
+    <td>7mg</td>
+    <td>★★★★☆</td>
+  </tr>
+</table>
+
+- 照片
+
+<div align="center">
+    <img src="./images/贵州_跨越.jpg" alt="Alt text" width="20%" height="20%"/>
+</div>
